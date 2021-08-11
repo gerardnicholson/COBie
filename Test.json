@@ -1,4 +1,17 @@
-[
+{
+    "name": "API Evangelist - APIs",
+    "description": "These are the APIs avilable across my work as the API Evangelist, studying the technology, business, and politics of APIs.",
+    "image": "http://s3.amazonaws.com/kinlane-productions/api-evangelist/t-shirts/KL_InApiWeTrust-1000.png",
+    "tags": [
+        "API",
+        "Application Programming Interface"
+    ],
+    "created": "2017-06-24",
+    "modified": "2017-06-30",
+    "url": "https://developer.apievangelist.com/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [],
+    "x-common": [
   {
     "Name": "Casework_4500_Kitchen Island",
     "CreatedBy": "Gerard.nicholson@gmit.ie",
